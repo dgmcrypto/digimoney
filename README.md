@@ -1,7 +1,7 @@
 # digimoney
 BUILD LINUX
 
-    git clone https://github.com/digimoneydgm/digimoney
+    git clone https://github.com/dgmcrypto/digimoney
 
     cd digimoney/src
 
